@@ -10,7 +10,7 @@ It's a repository supporting the report for the course : "Data in the Wild: Wran
 
 ## Dataset
 
---> Dataset Sources:
+--> Data Sources:
 
 ## Scrape
 

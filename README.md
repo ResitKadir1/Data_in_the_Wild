@@ -8,22 +8,22 @@ It's a repository supporting the report for the course : "Data in the Wild: Wran
 ## **[Overleaf report link here](https://www.overleaf.com/project/63417ff0607b6d26b51b4e5e "Overleaf link")**.
 
 
-# Dataset
+## Dataset
 
 --> Dataset Sources:
 
-# Scrape
+## Scrape
 
 -->
 
-# Data Cleaning & EDA(Exploratory Data Analysis)
+## Data Cleaning & EDA(Exploratory Data Analysis)
 
 
 
-Contributers:
+__Contributers:__
 
-@Resit Kadir
+Resit Kadir
 
-@Hans Christian Traugott-Olsen
+Hans Christian Traugott-Olsen
 
-@Bence Kovács
+Bence Kovács

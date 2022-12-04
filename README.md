@@ -18,3 +18,9 @@ It's a repository supporting the report for the course : "Data in the Wild: Wran
 
 # Data Cleaning & EDA(Exploratory Data Analysis)
 
+
+
+Contributers:
+@Resit Kadir
+@Hans Christian Traugott-Olsen
+@Bence Kovács

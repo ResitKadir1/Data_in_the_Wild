@@ -12,12 +12,19 @@ It's a repository supporting the report for the course : "Data in the Wild: Wran
 
 --> Data Sources:
 
-## Scrape
+## Data Gathering
 
 -->
 
-## Data Cleaning & EDA(Exploratory Data Analysis)
+## Data Cleaning 
 
+
+## EDA(Exploratory Data Analysis) & Data Visualisation
+
+
+
+
+##
 
 
 __Contributers:__

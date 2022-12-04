@@ -10,9 +10,11 @@ It's a repository supporting the report for the course : "Data in the Wild: Wran
 
 # Dataset
 
+--> Dataset Sources:
 
-#Scrape
+# Scrape
 
+-->
 
-#Data Cleaning & EDA(Exploratory Data Analysis)
+# Data Cleaning & EDA(Exploratory Data Analysis)
 

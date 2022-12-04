@@ -27,10 +27,3 @@ It's a repository supporting the report for the course : "Data in the Wild: Wran
 ##
 
 
-__Contributers:__
-
-Resit Kadir
-
-Hans Christian Traugott-Olsen
-
-Bence Kovács

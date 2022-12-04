@@ -21,6 +21,9 @@ It's a repository supporting the report for the course : "Data in the Wild: Wran
 
 
 Contributers:
+
 @Resit Kadir
+
 @Hans Christian Traugott-Olsen
+
 @Bence Kovács

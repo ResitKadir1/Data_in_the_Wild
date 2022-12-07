@@ -13,10 +13,10 @@ It's a repository supporting the report for the course : "Data in the Wild: Wran
 --> Data Sources:
 
 ### Data source 1:
-### boligsiden.dk
+#### boligsiden.dk
 
 ### Data source 2:
-### boliga.dk
+#### boliga.dk
 
 ## Data Gathering
 

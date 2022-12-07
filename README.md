@@ -14,7 +14,7 @@ It's a repository supporting the report for the course : "Data in the Wild: Wran
 
 ### Data source 1: **[Boliga](https://www.boliga.dk/ "Data source 1")**
 
-### Data source 2: **[Boligsiden]([https://www.boliga.dk/](https://www.boligsiden.dk/) "Data source 2")**
+### Data source 2: **[Boligsiden](https://www.boligsiden.dk/ "Data source 2")**
 
 ## Data Gathering
 

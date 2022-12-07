@@ -30,6 +30,8 @@ The scraped information are the following:
 
 Once all the houses have been scraped, their address is cleaned and their coordinates are extracted with Nominatim geolocator with the cleaned address.
 
+The output is a csv file.
+
 ## Data Cleaning 
 
 

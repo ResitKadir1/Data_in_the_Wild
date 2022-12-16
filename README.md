@@ -40,4 +40,4 @@ The output is a csv file.
 
 ##Feature Importance
 
-![plot][Graphs/Feature_importance.png]
+![plot](Graphs/Feature_importance.png)

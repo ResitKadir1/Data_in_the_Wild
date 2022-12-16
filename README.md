@@ -38,6 +38,6 @@ The output is a csv file.
 ## EDA(Exploratory Data Analysis) & Data Visualisation
 
 
-##Feature Importance
+## Feature Importance
 
 ![plot](Graphs/Feature_importance.png)

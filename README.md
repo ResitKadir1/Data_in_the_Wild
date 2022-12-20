@@ -27,7 +27,8 @@ The scrape opens the url for each house and saves their respective information i
 The scraped information are the following:
 
 'Type', 'Address', 'Price', 'Sqm Price', 'Size', 'Living Area', 'Ground Area', 'Rooms', 'Ownership Expense', 'Year Built', 'Story', 'Energy Label', 'Description' 
-![plot](sGraph/Feature_importance.png)
+
+![Housing Types](sGraph/Total_House_DistBarChart.png)
 
 Once all the houses have been scraped, their address is cleaned and their coordinates are extracted with Nominatim geolocator with the cleaned address.
 
